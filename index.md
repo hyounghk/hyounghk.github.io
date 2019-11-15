@@ -1,4 +1,4 @@
-## Education
+I am a third-year PhD student in the UNC-NLP group at UNC Chapel Hill.
 
 PhD, Computer Science, UNC at Chapel Hill
 
