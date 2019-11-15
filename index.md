@@ -1,9 +1,11 @@
-I am a third-year PhD student in the UNC-NLP group at UNC Chapel Hill.
 
-PhD, Computer Science, UNC at Chapel Hill
+### About Me
+
+I am a third-year PhD student in the [UNC NLP Lab](http://nlp.cs.unc.edu/) at UNC Chapel Hill, advised by Prof. [Mohit Bansl](http://www.cs.unc.edu/~mbansal) and co-advised by Prof. [Henry Fuchs](http://henryfuchs.web.unc.edu/)
 
 
-### Markdown
+
+### Publication
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
