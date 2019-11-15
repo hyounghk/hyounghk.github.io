@@ -17,7 +17,11 @@ Proceedings of [ACL 2019](http://www.acl2019.org/), Florence, Italy (short paper
 ([**ACL Best Short Paper Nomination**](http://www.acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml))
 
 
-* Towards Fully Mobile 3D Face, Body, and Environment Capture Using Only Head-worn Cameras
+* Towards Fully Mobile 3D Face, Body, and Environment Capture Using Only Head-worn Cameras\
+Young-Woon Cha, True Price, Zhen Wei, Xinran Lu, Nicholas Rewkowski, Rohan Chabra, Zihe Qin, **Hyounghun Kim**, Zhaoqi Su, Yebin Liu, Adrian Ilie, Andrei State, Zhenlin Xu, Jan-Michael Frahm, and Henry Fuchs
+IEEE Transactions on Visualization and Computer Graphics (TVCG), Vol. 24, November, 2018
+
+
 ```markdown
 Syntax highlighted code block
 
