@@ -15,9 +15,9 @@ Proceedings of [ACL 2019](http://www.acl2019.org/), Florence, Italy (short paper
 
 
 * **Towards Fully Mobile 3D Face, Body, and Environment Capture Using Only Head-worn Cameras**   
-Young-Woon Cha, True Price, Zhen Wei, Xinran Lu, Nicholas Rewkowski, Rohan Chabra, Zihe Qin, **Hyounghun Kim**, Zhaoqi Su, Yebin Liu, Adrian Ilie, Andrei State, Zhenlin Xu, Jan-Michael Frahm, and Henry Fuchs
+Young-Woon Cha, True Price, Zhen Wei, Xinran Lu, Nicholas Rewkowski, Rohan Chabra, Zihe Qin, **Hyounghun Kim**, Zhaoqi Su, Yebin Liu, Adrian Ilie, Andrei State, Zhenlin Xu, Jan-Michael Frahm, and Henry Fuchs  
 IEEE Transactions on Visualization and Computer Graphics (TVCG), Vol. 24, November, 2018. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8458443)]
 
 * **Development of Augmented Reality Applications in Otolaryngology-Head and Neck Surgery**  
-Austin S. Rose, **Hyounghun Kim**, Henry Fuchs, and Jan-Michael Frahm
+Austin S. Rose, **Hyounghun Kim**, Henry Fuchs, and Jan-Michael Frahm  
 The Laryngoscope, Jul. 2019. [[pdf](https://onlinelibrary.wiley.com/doi/pdf/10.1002/lary.28098)]
