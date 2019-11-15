@@ -1,4 +1,10 @@
 theme: jekyll-theme-minimal
 title: Hyounghun Kim
-image:
-  feature: https://github.com/hyounghk/hyounghk.github.io/blob/master/temp.jpg
+name: Billy Rick
+  web: http://thewhip.com
+  email: billy@rick.com
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio-photo-2.jpg
+  twitter: extravagantman
+  google:
+    plus: +BillyRick
