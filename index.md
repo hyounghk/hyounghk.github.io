@@ -1,6 +1,7 @@
 
 ### About Me
 I am a third-year PhD student in the [UNC NLP Lab](http://nlp.cs.unc.edu/) at UNC Chapel Hill, advised by Prof. [Mohit Bansal](http://www.cs.unc.edu/~mbansal) and co-advised by Prof. [Henry Fuchs](http://henryfuchs.web.unc.edu/).
+
 <br/>  
 
 ### Publication
