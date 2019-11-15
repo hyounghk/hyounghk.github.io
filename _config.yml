@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Hyounghun Kim
-logo: https://github.com/hyounghk/hyounghk.github.io/blob/master/temp.jpg
+image:
+  feature: https://github.com/hyounghk/hyounghk.github.io/blob/master/temp.jpg
