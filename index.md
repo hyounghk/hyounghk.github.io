@@ -1,11 +1,9 @@
 
 ## About Me
-
 I am a third-year PhD student in the [UNC NLP Lab](http://nlp.cs.unc.edu/) at UNC Chapel Hill, advised by Prof. [Mohit Bansal](http://www.cs.unc.edu/~mbansal) and co-advised by Prof. [Henry Fuchs](http://henryfuchs.web.unc.edu/)
   
   
 ## Publication
-
 * **Modality-Balanced Models for Visual Dialogue**  
 **Hyounghun Kim**, Hao Tan, and Mohit Bansal  
 Proceedings of [AAAI 2020](https://aaai.org/Conferences/AAAI-20/), New York, NY.
