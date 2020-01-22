@@ -6,7 +6,7 @@ I am a third-year PhD student in the [UNC NLP Lab](http://nlp.cs.unc.edu/) at UN
 ### Publications
 * **Modality-Balanced Models for Visual Dialogue**  
 **Hyounghun Kim**, Hao Tan, and Mohit Bansal  
-Proceedings of [AAAI 2020](https://aaai.org/Conferences/AAAI-20/), New York, NY.
+Proceedings of [AAAI 2020](https://aaai.org/Conferences/AAAI-20/), New York, NY. [[pdf](https://arxiv.org/abs/2001.06354)]
 
 * **Improving Visual Question Answering by Referring to Generated Paragraph Captions**  
 **Hyounghun Kim** and Mohit Bansal  
