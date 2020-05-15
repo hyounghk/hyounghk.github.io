@@ -4,6 +4,11 @@ I am a third-year PhD student in the [UNC NLP Lab](http://nlp.cs.unc.edu/) at UN
 
 
 ### Publications
+
+* **Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA**  
+**Hyounghun Kim**, Zineng Tang, and Mohit Bansal  
+Proceedings of [ACL 2020](https://acl2020.org/), Seattle, WA. [[pdf](https://arxiv.org/abs/2005.06409)][[code](https://github.com/hyounghk/VideoQADenseCapFrameGate-ACL2020)]
+
 * **Modality-Balanced Models for Visual Dialogue**  
 **Hyounghun Kim**, Hao Tan, and Mohit Bansal  
 Proceedings of [AAAI 2020](https://aaai.org/Conferences/AAAI-20/), New York, NY. [[pdf](https://arxiv.org/abs/2001.06354)]
