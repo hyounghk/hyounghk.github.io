@@ -19,7 +19,7 @@ Proceedings of [AAAI 2020](https://aaai.org/Conferences/AAAI-20/), New York, NY.
 
 * **Improving Visual Question Answering by Referring to Generated Paragraph Captions**  
 **Hyounghun Kim** and Mohit Bansal  
-Proceedings of [ACL 2019](http://www.acl2019.org/), Florence, Italy (short papers). [[pdf](https://arxiv.org/abs/1906.06216)]  
+Proceedings of [ACL 2019](http://www.acl2019.org/), Florence, Italy (short paper). [[pdf](https://arxiv.org/abs/1906.06216)]  
 ([ACL Best Short Paper Nomination](http://www.acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml))
 
 * **Development of Augmented Reality Applications in Otolaryngology-Head and Neck Surgery**  
