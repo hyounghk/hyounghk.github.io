@@ -5,7 +5,7 @@ I am a third-year PhD student in the [UNC NLP Lab](http://nlp.cs.unc.edu/) at UN
 
 ### Publications
 
-* **ArraMon: A Joint Navigation-Assembly Instruction Interpretation Task in Dynamic Environments**
+* **ArraMon: A Joint Navigation-Assembly Instruction Interpretation Task in Dynamic Environments**  
 **Hyounghun Kim**, Abhaysinh Zala, Graham Burri, Hao Tan, and Mohit Bansal
 Findings of [EMNLP 2020](https://2020.emnlp.org/).
 
