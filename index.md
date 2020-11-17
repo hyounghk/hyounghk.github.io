@@ -7,7 +7,7 @@ I am a fourth-year PhD student in the [MURGe-Lab](https://murgelab.cs.unc.edu/) 
 
 * **ArraMon: A Joint Navigation-Assembly Instruction Interpretation Task in Dynamic Environments**  
 **Hyounghun Kim**, Abhaysinh Zala, Graham Burri, Hao Tan, and Mohit Bansal  
-Findings of [EMNLP 2020](https://2020.emnlp.org/). [coming soon]
+Findings of [EMNLP 2020](https://2020.emnlp.org/). [[pdf](http://arxiv.org/abs/2011.07660)][[code](https://github.com/hyounghk/ArraMon)]
 
 * **Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA**  
 **Hyounghun Kim**, Zineng Tang, and Mohit Bansal  
