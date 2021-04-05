@@ -6,7 +6,7 @@ I am a fourth-year PhD student in the [MURGe-Lab](https://murgelab.cs.unc.edu/) 
 ### Publications
 
 * **FixMyPose: Pose Correctional Captioning and Retrieval**  
-**Hyounghun Kim**, Abhaysinh Zala, Graham Burri, and Mohit Bansal  
+**Hyounghun Kim\***, Abhaysinh Zala\*, Graham Burri, and Mohit Bansal  
 Proceedings of [AAAI 2021](https://aaai.org/Conferences/AAAI-21/). [coming soon]
 
 * **ArraMon: A Joint Navigation-Assembly Instruction Interpretation Task in Dynamic Environments**  
