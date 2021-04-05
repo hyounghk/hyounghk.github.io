@@ -1,6 +1,6 @@
 
 ### About Me
-I am a fourth-year PhD student in the [MURGe-Lab](https://murgelab.cs.unc.edu/) and the [UNC NLP Group](http://nlp.cs.unc.edu/) at UNC Chapel Hill, advised by Prof. [Mohit Bansal](http://www.cs.unc.edu/~mbansal) and co-advised by Prof. [Henry Fuchs](http://henryfuchs.web.unc.edu/).
+I am a fourth-year PhD student in the [MURGe-Lab](https://murgelab.cs.unc.edu/) and the [UNC NLP Group](http://nlp.cs.unc.edu/) at UNC Chapel Hill, advised by Prof. [Mohit Bansal](http://www.cs.unc.edu/~mbansal). I also worked with Prof. [Henry Fuchs](http://henryfuchs.web.unc.edu/) on AR applications.
 
 
 ### Publications
