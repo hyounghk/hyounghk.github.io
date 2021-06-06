@@ -5,6 +5,10 @@ I am a fourth-year PhD student in the [MURGe-Lab](https://murgelab.cs.unc.edu/) 
 
 ### Publications
 
+* **Continuous Language Generative Flow**  
+Zineng Tang, Shiyue Zhang, **Hyounghun Kim**, and Mohit Bansal.
+Proceedings of [ACL 2021](https://2021.aclweb.org/).
+
 * **FixMyPose: Pose Correctional Captioning and Retrieval**  
 **Hyounghun Kim\***, Abhaysinh Zala\*, Graham Burri, and Mohit Bansal  
 Proceedings of [AAAI 2021](https://aaai.org/Conferences/AAAI-21/). [[pdf](https://arxiv.org/abs/2104.01703)][[code](https://github.com/hyounghk/FixMyPose)]
