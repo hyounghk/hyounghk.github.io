@@ -6,7 +6,7 @@ I am a fifth-year PhD student in the [MURGe-Lab](https://murgelab.cs.unc.edu/) a
 ### Publications
 
 * **NDH-Full: Learning and Evaluating Navigational Agents on Full-Length Dialogue**  
-<u>Hyounghun Kim</u>, Jialu Li, and Mohit Bansal  
+<ins>Hyounghun Kim</ins>, Jialu Li, and Mohit Bansal  
 Proceedings of [EMNLP 2021](https://2021.emnlp.org/).
 
 * **Continuous Language Generative Flow**  
