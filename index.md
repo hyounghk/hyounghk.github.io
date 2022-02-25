@@ -7,7 +7,7 @@ I am a fifth-year PhD student in the [MURGe-Lab](https://murgelab.cs.unc.edu/) a
 
 * **CAISE: Conversational Agent for Image Search and Editing**  
 <ins>Hyounghun Kim</ins>, Doo Soon Kim, Seunghyun Yoon, Franck Dernoncourt, Trung Bui, and Mohit Bansal  
-Proceedings of [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
+Proceedings of [AAAI 2022](https://aaai.org/Conferences/AAAI-22/). [[pdf](https://arxiv.org/abs/2202.11847/)][[code](https://github.com/hyounghk/CAISE)]
 
 * **NDH-Full: Learning and Evaluating Navigational Agents on Full-Length Dialogue**  
 <ins>Hyounghun Kim</ins>, Jialu Li, and Mohit Bansal  
