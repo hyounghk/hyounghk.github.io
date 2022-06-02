@@ -5,12 +5,12 @@ I am a fifth-year PhD student in the [MURGe-Lab](https://murgelab.cs.unc.edu/) a
 
 ### Publications
 
-* **CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**
-<ins>Hyounghun Kim</ins>\*, Abhay Zala\*, and Mohit Bansal
+* **CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**<br>
+<ins>Hyounghun Kim</ins>\*, Abhay Zala\*, and Mohit Bansal<br>
 Proceedings of [NAACL 2022](https://2022.naacl.org/). 
 
-* **On the Limits of Evaluating Embodied Agent Model Generalization Using Validation Sets**
-<ins>Hyounghun Kim</ins>, Aishwarya Padmakumar, Di Jin, Mohit Bansal, and Dilek Hakkani-Tur 
+* **On the Limits of Evaluating Embodied Agent Model Generalization Using Validation Sets**<br>
+<ins>Hyounghun Kim</ins>, Aishwarya Padmakumar, Di Jin, Mohit Bansal, and Dilek Hakkani-Tur<br>
 [Insights Workshop](https://insights-workshop.github.io/), ACL 2022. [[pdf](https://arxiv.org/abs/2205.09249/)]
 
 * **CAISE: Conversational Agent for Image Search and Editing**  
