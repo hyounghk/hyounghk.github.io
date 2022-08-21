@@ -7,7 +7,7 @@ I am an assistant professor at UNIST [AIGS](https://aigs.unist.ac.kr/eng/index.p
 
 * **CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**<br>
 <ins>Hyounghun Kim</ins>\*, Abhay Zala\*, and Mohit Bansal<br>
-Proceedings of [NAACL 2022](https://2022.naacl.org/). [[pdf]([https://arxiv.org/abs/2205.09249/](https://arxiv.org/abs/2207.03961))]
+Proceedings of [NAACL 2022](https://2022.naacl.org/). [[pdf](https://arxiv.org/abs/2207.03961)]
 
 * **On the Limits of Evaluating Embodied Agent Model Generalization Using Validation Sets**<br>
 <ins>Hyounghun Kim</ins>, Aishwarya Padmakumar, Di Jin, Mohit Bansal, and Dilek Hakkani-Tur<br>
