@@ -1,13 +1,13 @@
 
 ### About Me
-I am a fifth-year PhD student in the [MURGe-Lab](https://murgelab.cs.unc.edu/) and the [UNC NLP Group](http://nlp.cs.unc.edu/) at UNC Chapel Hill, advised by Prof. [Mohit Bansal](http://www.cs.unc.edu/~mbansal). I also worked with Prof. [Henry Fuchs](http://henryfuchs.web.unc.edu/) on AR applications.
+I am an assistant professor at UNIST [AIGS](https://aigs.unist.ac.kr/eng/index.php)/[CSE](https://cse.unist.ac.kr/eng/). Before joining UNIST, I earned my PhD at UNC Chapel Hill, advised by Prof. [Mohit Bansal](http://www.cs.unc.edu/~mbansal). I also worked with Prof. [Henry Fuchs](http://henryfuchs.web.unc.edu/) on AR applications.
 
 
 ### Publications
 
 * **CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**<br>
 <ins>Hyounghun Kim</ins>\*, Abhay Zala\*, and Mohit Bansal<br>
-Proceedings of [NAACL 2022](https://2022.naacl.org/). 
+Proceedings of [NAACL 2022](https://2022.naacl.org/). [[pdf]([https://arxiv.org/abs/2205.09249/](https://arxiv.org/abs/2207.03961))]
 
 * **On the Limits of Evaluating Embodied Agent Model Generalization Using Validation Sets**<br>
 <ins>Hyounghun Kim</ins>, Aishwarya Padmakumar, Di Jin, Mohit Bansal, and Dilek Hakkani-Tur<br>
