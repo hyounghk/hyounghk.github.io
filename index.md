@@ -1,6 +1,6 @@
 
 ### About Me
-I am an assistant professor at UNIST [AIGS](https://aigs.unist.ac.kr/eng/index.php)/[CSE](https://cse.unist.ac.kr/eng/). Before joining UNIST, I earned my PhD at UNC Chapel Hill, advised by Prof. [Mohit Bansal](http://www.cs.unc.edu/~mbansal). I also worked with Prof. [Henry Fuchs](http://henryfuchs.web.unc.edu/) on AR applications.
+I am an assistant professor at UNIST [AIGS](https://aigs.unist.ac.kr/eng/index.php)/[CSE](https://cse.unist.ac.kr/eng/). I earned my PhD at UNC Chapel Hill, advised by Prof. [Mohit Bansal](http://www.cs.unc.edu/~mbansal). I also worked with Prof. [Henry Fuchs](http://henryfuchs.web.unc.edu/) on AR applications.
 
 
 ### Publications
