@@ -5,6 +5,14 @@ I am an assistant professor at UNIST [AIGS](https://aigs.unist.ac.kr/eng/index.p
 
 ### Publications
 
+* **Conversation Chronicles: Towards Diverse Temporal and Relational Dynamics in Multi-Session Conversations**<br>
+Jihyoung Jang, MinSeong Boo, and <ins>Hyounghun Kim</ins><br>
+Proceedings of [EMNLP 2023](https://2023.emnlp.org/). [[pdf](https://arxiv.org/abs/2310.13420)] [[website](https://conversation-chronicles.github.io/)]
+
+* **Sound of Story: Multi-modal Storytelling with Audio**<br>
+Jaeyeon Bae\*, Seokhoon Jeong\*, Seokun Kang, Namgi Han, Jae-Yon Lee, <ins>Hyounghun Kim</ins>, and Taehwan Kim. 
+Findings of [EMNLP 2023](https://2023.emnlp.org/). [to appear]
+
 * **CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**<br>
 <ins>Hyounghun Kim</ins>\*, Abhay Zala\*, and Mohit Bansal<br>
 Proceedings of [NAACL 2022](https://2022.naacl.org/). [[pdf](https://arxiv.org/abs/2207.03961)]
