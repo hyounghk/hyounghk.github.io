@@ -7,11 +7,11 @@ I am an assistant professor at UNIST [AIGS](https://aigs.unist.ac.kr/eng/index.p
 
 * **Collective Critics for Creative Story Generation**<br>
 Minwook Bae, and <ins>Hyounghun Kim</ins><br>
-Proceedings of [EMNLP 2024](https://2024.emnlp.org/).
+Proceedings of [EMNLP 2024](https://2024.emnlp.org/). [[pdf](https://arxiv.org/abs/2410.02428)]
 
 * **Mixed-Session Conversation with Egocentric Memory**<br>
 Jihyoung Jang, Taeyoung Kim, and <ins>Hyounghun Kim</ins><br>
-Findings of [EMNLP 2024](https://2024.emnlp.org/).
+Findings of [EMNLP 2024](https://2024.emnlp.org/). [[pdf](https://arxiv.org/abs/2410.02503)] [[website](https://mixed-session.github.io/)]
 
 * **Conversation Chronicles: Towards Diverse Temporal and Relational Dynamics in Multi-Session Conversations**<br>
 Jihyoung Jang, MinSeong Boo, and <ins>Hyounghun Kim</ins><br>
