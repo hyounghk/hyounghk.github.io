@@ -1,6 +1,6 @@
 
 ### About Me
-I am an assistant professor at POSTECH [GSAI](https://ai.postech.ac.kr/)/[CSE](https://cse.postech.ac.kr/), leading [Laguage & Intelligence Lab (LIL)](https://sites.google.com/view/language-intelligence-lab) under [POSTECH NLP Group](https://nlp.postech.ac.kr/). Before joining POSTECH, I was an assistant professor at UNIST AIGS/CSE. I earned my PhD from UNC Chapel Hill, where I was advised by Prof. [Mohit Bansal](http://www.cs.unc.edu/~mbansal). I also worked with Prof. [Henry Fuchs](http://henryfuchs.web.unc.edu/) on AR applications.
+I am an assistant professor at POSTECH [GSAI](https://ai.postech.ac.kr/)/[CSE](https://cse.postech.ac.kr/), leading [Language & Intelligence Lab (LIL)](https://sites.google.com/view/language-intelligence-lab) under [POSTECH NLP Group](https://nlp.postech.ac.kr/). Before joining POSTECH, I was an assistant professor at UNIST AIGS/CSE. I earned my PhD from UNC Chapel Hill, where I was advised by Prof. [Mohit Bansal](http://www.cs.unc.edu/~mbansal). I also worked with Prof. [Henry Fuchs](http://henryfuchs.web.unc.edu/) on AR applications.
 
 
 ### Publications
