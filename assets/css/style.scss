@@ -11,3 +11,8 @@ header li {
 	width: 270px;
 	height: auto;
 }
+
+@import "{{ site.theme }}";
+a:hover, a:focus {
+  font-weight:unset;
+}
