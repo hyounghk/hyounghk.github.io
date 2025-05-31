@@ -22,7 +22,7 @@ Proceedings of [EMNLP 2023](https://2023.emnlp.org/). [[pdf](https://arxiv.org/a
 
 * **Sound of Story: Multi-modal Storytelling with Audio**<br>
 Jaeyeon Bae\*, Seokhoon Jeong\*, Seokun Kang, Namgi Han, Jae-Yon Lee, <ins>Hyounghun Kim</ins>, and Taehwan Kim<br> 
-Findings of [EMNLP 2023](https://2023.emnlp.org/). [to appear]
+Findings of [EMNLP 2023](https://2023.emnlp.org/). [[pdf](https://arxiv.org/abs/2310.19264)]
 
 * **CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**<br>
 <ins>Hyounghun Kim</ins>\*, Abhay Zala\*, and Mohit Bansal<br>
