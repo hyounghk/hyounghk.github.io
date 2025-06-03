@@ -6,7 +6,7 @@ I am an assistant professor at POSTECH [GSAI](https://ai.postech.ac.kr/)/[CSE](h
 ### Publications
 * **Enabling Chatbots with Eyes and Ears: An Immersive Multimodal Conversation System for Dynamic Interactions**<br>
 Jihyoung Jang\*, Minwook Bae\*, Minji Kim, Dilek Hakkani-Tur, and <ins>Hyounghun Kim</ins><br>
-Proceedings of [ACL 2025](https://2025.aclweb.org/).
+Proceedings of [ACL 2025](https://2025.aclweb.org/). [[pdf](https://arxiv.org/abs/2506.00421)]
 
 * **Collective Critics for Creative Story Generation**<br>
 Minwook Bae, and <ins>Hyounghun Kim</ins><br>
