@@ -4,6 +4,30 @@ I am an assistant professor at POSTECH [GSAI](https://ai.postech.ac.kr/)/[CSE](h
 
 
 ### Publications
+* **PanicToCalm: A Proactive Counseling Agent for Panic Attacks**<br>
+Jihyun Lee, Yejin Min, San Kim, Yejin Jeon, SungJun Yang, <ins>Hyounghun Kim</ins>, Gary Lee<br>
+Proceedings of [EMNLP 2025](https://2025.emnlp.org/).
+
+* **KoBLEX: Open Legal Question Answering with Multi-hop Reasoning**<br>
+Jihyung Lee*, DaeHee Kim*, Seonjeong Hwang, <ins>Hyounghun Kim</ins>, and Gary Lee<br>
+Proceedings of [EMNLP 2025](https://2025.emnlp.org/).
+
+* **Revealing the Inherent Instructability of Pre-Trained Language Models**<br>
+Seokhyun An, Minji Kim, and <ins>Hyounghun Kim</ins><br>
+Findings of [EMNLP 2025](https://2025.emnlp.org/). [[pdf](https://arxiv.org/abs/2410.02465)]
+
+* **Self-Correcting Code Generation Using Small Language Models**<br>
+Jeonghun Cho, Deokhyung Kang, <ins>Hyounghun Kim</ins>, and Gary Lee<br>
+Findings of [EMNLP 2025](https://2025.emnlp.org/).
+
+* **Progressive Facial Granularity Aggregation with Bilateral Attribute-based Reinforcement for Face-to-Speech Generation**<br>
+Youngjae Kim, Jihyun Lee, <ins>Hyounghun Kim</ins>, and Gary Lee<br>
+Findings of [EMNLP 2025](https://2025.emnlp.org/).
+
+* **ChronoBias: A Benchmark for Evaluating Temporal Group Bias in Retrieval-augmented Language Models**<br>
+Kyungmin Kim, Youngbin Choi, <ins>Hyounghun Kim</ins>, Dongwoo Kim, and Sangdon Park<br>
+Findings of [EMNLP 2025](https://2025.emnlp.org/).
+
 * **Enabling Chatbots with Eyes and Ears: An Immersive Multimodal Conversation System for Dynamic Interactions**<br>
 Jihyoung Jang\*, Minwook Bae\*, Minji Kim, Dilek Hakkani-Tur, and <ins>Hyounghun Kim</ins><br>
 Proceedings of [ACL 2025](https://2025.aclweb.org/). [[pdf](https://arxiv.org/abs/2506.00421)]
