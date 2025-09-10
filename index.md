@@ -21,7 +21,7 @@ Jeonghun Cho, Deokhyung Kang, <ins>Hyounghun Kim</ins>, and Gary Lee<br>
 Findings of [EMNLP 2025](https://2025.emnlp.org/).
 
 * **Progressive Facial Granularity Aggregation with Bilateral Attribute-based Reinforcement for Face-to-Speech Generation**<br>
-Youngjae Kim, Jihyun Lee, <ins>Hyounghun Kim</ins>, and Gary Lee<br>
+Yejin Jeon, Youngjae Kim, Jihyun Lee, <ins>Hyounghun Kim</ins>, and Gary Lee<br>
 Findings of [EMNLP 2025](https://2025.emnlp.org/).
 
 * **ChronoBias: A Benchmark for Evaluating Temporal Group Bias in Retrieval-augmented Language Models**<br>
