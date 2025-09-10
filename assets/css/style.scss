@@ -66,12 +66,12 @@ a:hover, a:focus {
 
 /* 오른쪽 본문 폭 넓히기 */
 .page-content {
-  max-width: 950px !important;   /* 기본은 ~720px, 원하시면 1000px 이상도 가능 */
+  max-width: 1200px !important;   /* 기본은 ~720px, 원하시면 1000px 이상도 가능 */
 }
 
 /* 전체 래퍼도 같이 넓혀줌 */
 .wrapper {
-  max-width: 1200px !important;  /* 왼쪽+오른쪽 합쳐진 전체 폭 */
+  max-width: 1300px !important;  /* 왼쪽+오른쪽 합쳐진 전체 폭 */
   margin: 0 auto;
 }
 
