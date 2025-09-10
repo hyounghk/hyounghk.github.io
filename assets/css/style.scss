@@ -16,3 +16,40 @@ header li {
 a:hover, a:focus {
   font-weight:unset;
 }
+
+/* === widen main content area === */
+:root {
+  /* 원하는 최대 폭으로 바꾸세요 (예: 1000~1200px) */
+  --content-max: 1100px;
+}
+
+/* 테마별로 흔한 컨테이너들을 한꺼번에 오버라이드 */
+.wrapper,
+.page-content,
+.main-content,
+.post,
+.post-content,
+.content,
+.container,
+main {
+  max-width: var(--content-max) !important;
+  width: min(var(--content-max), 94vw) !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* 리스트/홈 레이아웃도 폭 제한이 따로 걸려있을 수 있어 같이 늘려줌 */
+.home, .post-list {
+  max-width: var(--content-max) !important;
+}
+
+/* 두 칼럼(왼쪽 사진 + 오른쪽 본문) 레이아웃을 쓰는 경우 여백 보정 */
+main, .page-content, .content {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+/* 모바일에서는 기본 폭 유지 */
+@media (max-width: 900px) {
+  :root { --content-max: 92vw; }
+}
