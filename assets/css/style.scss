@@ -53,22 +53,3 @@ main, .page-content, .content {
 @media (max-width: 900px) {
   :root { --content-max: 92vw; }
 }
-
-/* 두 칼럼 레이아웃을 flex로 */
-.wrapper {
-  display: flex;
-  max-width: 1200px;   /* 전체 폭 */
-  margin: 0 auto;
-  gap: 40px;           /* 두 칼럼 사이 간격 */
-}
-
-/* 왼쪽 컬럼(사진+링크) */
-.wrapper > div:first-child {
-  flex: 0 0 250px;   /* 왼쪽을 250px 고정 */
-}
-
-/* 오른쪽 컬럼(본문) */
-.wrapper > div:last-child {
-  flex: 1;           /* 나머지 공간 전부 차지 */
-  max-width: 900px;  /* 원하면 제한을 걸 수도 있음 */
-}
