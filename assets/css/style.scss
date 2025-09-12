@@ -12,10 +12,10 @@ header li {
 	height: auto;
 }
 
-@import "{{ site.theme }}";
-a:hover, a:focus {
-  font-weight:unset;
-}
+// @import "{{ site.theme }}";
+// a:hover, a:focus {
+//   font-weight:unset;
+// }
 
 .sidebar {
   width: 150px;
