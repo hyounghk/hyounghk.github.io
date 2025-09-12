@@ -16,9 +16,3 @@ header li {
 a:hover, a:focus {
   font-weight:unset;
 }
-
-/* === widen main content area === */
-:root {
-  /* 원하는 최대 폭으로 바꾸세요 (예: 1000~1200px) */
-  --content-max: 1700px;
-}
