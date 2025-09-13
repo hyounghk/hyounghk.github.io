@@ -9,7 +9,7 @@ Jihyun Lee, Yejin Min, San Kim, Yejin Jeon, SungJun Yang, <ins>Hyounghun Kim</in
 Proceedings of [EMNLP 2025](https://2025.emnlp.org/).
 
 * **KoBLEX: Open Legal Question Answering with Multi-hop Reasoning**<br>
-Jihyung Lee*, DaeHee Kim*, Seonjeong Hwang, <ins>Hyounghun Kim</ins>, and Gary Lee<br>
+Jihyung Lee\*, DaeHee Kim\*, Seonjeong Hwang, <ins>Hyounghun Kim</ins>, and Gary Lee<br>
 Proceedings of [EMNLP 2025](https://2025.emnlp.org/).
 
 * **Revealing the Inherent Instructability of Pre-Trained Language Models**<br>
