@@ -36,7 +36,7 @@ a:hover, a:focus {
   min-width: 0;                  /* 플렉스 내부 줄바꿈/넘침 방지 */
   width: 50%;
   max-width: 300px;             /* 필요없으면 제거 */
-  float: none;
+  // float: none;
   padding-bottom: 50px;
 }
 
