@@ -3,23 +3,11 @@
 
 @import "{{ site.theme }}";
 
-@media print, screen and (max-width: 1300px) {
+.wrapper {
+  display: flex;
+}
 
-  div.wrapper {
-    width:auto;
-    margin:0;
-  }
-
-  header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
-  }
-
-  header {
-    padding-right:320px;
-  }
-
+/* 본문 영역 */
 section {
   flex: 1;              /* 남은 공간 다 차지 */
   max-width: 1800px;    /* 필요하면 최대 폭 제한 */
@@ -28,37 +16,14 @@ section {
   padding-bottom: 50px;
 }
 
-  header a small {
-    display:inline;
-  }
-
-  header ul {
-    position:absolute;
-    right:50px;
-    top:52px;
-  }
+footer {
+  display: none;
 }
-// .wrapper {
-//   display: flex;
-// }
 
-// /* 본문 영역 */
-// section {
-//   flex: 1;              /* 남은 공간 다 차지 */
-//   max-width: 1800px;    /* 필요하면 최대 폭 제한 */
-//   width: 100%;          /* 화면 크기에 맞게 */
-//   float: none;          /* float 제거 (flex와 충돌 방지) */
-//   padding-bottom: 50px;
-// }
-
-// footer {
-//   display: none;
-// }
-
-// header li {
-//   width: 270px;
-//   height: auto;
-// }
+header li {
+  width: 270px;
+  height: auto;
+}
 
 a:hover, a:focus {
   font-weight: unset;
