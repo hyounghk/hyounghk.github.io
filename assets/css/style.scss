@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.wrapper {
+  max-width: 1000px; /* 기본은 약 600px, 여기서 원하는 값으로 */
+}
+
 footer {
   display: none;
 }
@@ -16,12 +20,3 @@ header li {
 a:hover, a:focus {
   font-weight:unset;
 }
-
-// .sidebar {
-//   width: 150px;
-// }
-
-// .content {
-//   margin-left: 170px;
-//   max-width: 1800px;
-// }
