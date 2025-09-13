@@ -35,7 +35,7 @@ a:hover, a:focus {
   flex: 1;
   min-width: 0;                  /* 플렉스 내부 줄바꿈/넘침 방지 */
   width: 50%;
-  max-width: 1000px;             /* 필요없으면 제거 */
+  max-width: 300px;             /* 필요없으면 제거 */
   float: none;
   padding-bottom: 50px;
 }
