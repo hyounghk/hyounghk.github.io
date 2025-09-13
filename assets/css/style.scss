@@ -2,60 +2,51 @@
 ---
 
 @import "{{ site.theme }}";
-/* 컨테이너를 플렉스 */
 .wrapper {
   display: flex;
-  align-items: flex-start;
-  gap: 50px; 
 }
 
-/* 왼쪽 사이드바 */
-.wrapper > header {
-  position: static !important;   /* fixed/absolute 해제 */
-  flex: 0 0 270px;               /* 너비 고정 */
-  max-width: 270px;
-  float: none;
+footer {
+  display: none;
 }
 
-/* 본문 */
-.wrapper > section {
-  flex: 1;
-  min-width: 0;                  /* 플렉스 내부 줄바꿈/넘침 방지 */
-  width: 100%;
-  max-width: 2000px;             /* 필요없으면 제거 */
-  float: none;
-  padding-bottom: 50px;
-}
-
-/* 사이드바 이미지가 튀어나오지 않게 */
-header img {
-  max-width: 100%;
+header li {
+  width: 270px;
   height: auto;
-  display: block;
 }
-
-// .wrapper {
-//   display: flex;
-// }
-
-// /* 본문 영역 */
-// section {
-//   flex: 1;              /* 남은 공간 다 차지 */
-//   max-width: 1800px;    /* 필요하면 최대 폭 제한 */
-//   width: 100%;          /* 화면 크기에 맞게 */
-//   float: none;          /* float 제거 (flex와 충돌 방지) */
-//   padding-bottom: 50px;
-// }
-
-// footer {
-//   display: none;
-// }
-
-// header li {
-//   width: 270px;
-//   height: auto;
-// }
 
 a:hover, a:focus {
   font-weight: unset;
 }
+
+// /* 컨테이너를 플렉스 */
+// .wrapper {
+//   display: flex;
+//   align-items: flex-start;
+//   gap: 50px; 
+// }
+
+// /* 왼쪽 사이드바 */
+// .wrapper > header {
+//   position: static !important;   /* fixed/absolute 해제 */
+//   flex: 0 0 270px;               /* 너비 고정 */
+//   max-width: 270px;
+//   float: none;
+// }
+
+// /* 본문 */
+// .wrapper > section {
+//   flex: 1;
+//   min-width: 0;                  /* 플렉스 내부 줄바꿈/넘침 방지 */
+//   width: 100%;
+//   max-width: 2000px;             /* 필요없으면 제거 */
+//   float: none;
+//   padding-bottom: 50px;
+// }
+
+// /* 사이드바 이미지가 튀어나오지 않게 */
+// header img {
+//   max-width: 100%;
+//   height: auto;
+//   display: block;
+// }
