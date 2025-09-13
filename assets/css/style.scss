@@ -20,12 +20,13 @@
     padding-right:320px;
   }
 
-  section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
-    padding:20px 0;
-    margin:0 0 20px;
-  }
+section {
+  flex: 1;              /* 남은 공간 다 차지 */
+  max-width: 1800px;    /* 필요하면 최대 폭 제한 */
+  width: 100%;          /* 화면 크기에 맞게 */
+  float: none;          /* float 제거 (flex와 충돌 방지) */
+  padding-bottom: 50px;
+}
 
   header a small {
     display:inline;
