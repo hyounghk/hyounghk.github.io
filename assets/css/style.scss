@@ -24,7 +24,7 @@ a:hover, a:focus {
 
 /* 왼쪽 사이드바 */
 .wrapper > header {
-  position: static !important;   /* fixed/absolute 해제 */
+  // position: static !important;   /* fixed/absolute 해제 */
   flex: 0 0 270px;               /* 너비 고정 */
   max-width: 270px;
   float: none;
