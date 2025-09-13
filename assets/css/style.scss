@@ -15,30 +15,30 @@ a:hover, a:focus {
   font-weight: unset;
 }
 
-// /* 컨테이너를 플렉스 */
-// .wrapper {
-//   display: flex;
-//   align-items: flex-start;
-//   gap: 50px; 
-// }
+/* 컨테이너를 플렉스 */
+.wrapper {
+  display: flex;
+  align-items: flex-start;
+  gap: 50px; 
+}
 
-// /* 왼쪽 사이드바 */
-// .wrapper > header {
-//   position: static !important;   /* fixed/absolute 해제 */
-//   flex: 0 0 270px;               /* 너비 고정 */
-//   max-width: 270px;
-//   float: none;
-// }
+/* 왼쪽 사이드바 */
+.wrapper > header {
+  position: static !important;   /* fixed/absolute 해제 */
+  flex: 0 0 270px;               /* 너비 고정 */
+  max-width: 270px;
+  float: none;
+}
 
-// /* 본문 */
-// .wrapper > section {
-//   flex: 1;
-//   min-width: 0;                  /* 플렉스 내부 줄바꿈/넘침 방지 */
-//   width: 100%;
-//   max-width: 2000px;             /* 필요없으면 제거 */
-//   float: none;
-//   padding-bottom: 50px;
-// }
+/* 본문 */
+.wrapper > section {
+  flex: 1;
+  min-width: 0;                  /* 플렉스 내부 줄바꿈/넘침 방지 */
+  width: 100%;
+  max-width: 2000px;             /* 필요없으면 제거 */
+  float: none;
+  padding-bottom: 50px;
+}
 
 // /* 사이드바 이미지가 튀어나오지 않게 */
 // header img {
