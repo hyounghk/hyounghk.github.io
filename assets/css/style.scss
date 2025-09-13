@@ -7,23 +7,24 @@
   display: flex;
 }
 
+/* 본문 영역 */
 section {
-  width:500px;
-  float:right;
-  padding-bottom:50px;
+  flex: 1;              /* 남은 공간 다 차지 */
+  max-width: 1800px;    /* 필요하면 최대 폭 제한 */
+  width: 100%;          /* 화면 크기에 맞게 */
+  float: none;          /* float 제거 (flex와 충돌 방지) */
+  padding-bottom: 50px;
 }
-
 
 footer {
   display: none;
 }
 
 header li {
-	width: 270px;
-	height: auto;
+  width: 270px;
+  height: auto;
 }
 
-@import "{{ site.theme }}";
 a:hover, a:focus {
-  font-weight:unset;
+  font-weight: unset;
 }
