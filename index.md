@@ -4,13 +4,17 @@ I am an assistant professor at POSTECH [GSAI](https://ai.postech.ac.kr/)/[CSE](h
 
 
 ### Publications
+* **AQuA: Toward Strategic Response Generation for Ambiguous Visual Questions**<br>
+Jihyoung Jang and <ins>Hyounghun Kim</ins><br>
+Proceedings of [ICLR 2026](https://iclr.cc/).
+
 * **PanicToCalm: A Proactive Counseling Agent for Panic Attacks**<br>
 Jihyun Lee, Yejin Min, San Kim, Yejin Jeon, SungJun Yang, <ins>Hyounghun Kim</ins>, Gary Lee<br>
-Proceedings of [EMNLP 2025](https://2025.emnlp.org/).
+Proceedings of [EMNLP 2025](https://2025.emnlp.org/). [[pdf](https://arxiv.org/abs/2510.21143)]
 
 * **KoBLEX: Open Legal Question Answering with Multi-hop Reasoning**<br>
 Jihyung Lee\*, DaeHee Kim\*, Seonjeong Hwang, <ins>Hyounghun Kim</ins>, and Gary Lee<br>
-Proceedings of [EMNLP 2025](https://2025.emnlp.org/).
+Proceedings of [EMNLP 2025](https://2025.emnlp.org/). [[pdf](https://arxiv.org/abs/2509.01324)]
 
 * **Revealing the Inherent Instructability of Pre-Trained Language Models**<br>
 Seokhyun An, Minji Kim, and <ins>Hyounghun Kim</ins><br>
@@ -18,15 +22,15 @@ Findings of [EMNLP 2025](https://2025.emnlp.org/). [[pdf](https://arxiv.org/abs/
 
 * **Self-Correcting Code Generation Using Small Language Models**<br>
 Jeonghun Cho, Deokhyung Kang, <ins>Hyounghun Kim</ins>, and Gary Lee<br>
-Findings of [EMNLP 2025](https://2025.emnlp.org/).
+Findings of [EMNLP 2025](https://2025.emnlp.org/). [[pdf](https://arxiv.org/abs/2505.23060)]
 
 * **Progressive Facial Granularity Aggregation with Bilateral Attribute-based Reinforcement for Face-to-Speech Generation**<br>
 Yejin Jeon, Youngjae Kim, Jihyun Lee, <ins>Hyounghun Kim</ins>, and Gary Lee<br>
-Findings of [EMNLP 2025](https://2025.emnlp.org/).
+Findings of [EMNLP 2025](https://2025.emnlp.org/). [[pdf](https://arxiv.org/abs/2509.07376)]
 
 * **ChronoBias: A Benchmark for Evaluating Temporal Group Bias in Retrieval-augmented Language Models**<br>
 Kyungmin Kim, Youngbin Choi, <ins>Hyounghun Kim</ins>, Dongwoo Kim, and Sangdon Park<br>
-Findings of [EMNLP 2025](https://2025.emnlp.org/).
+Findings of [EMNLP 2025](https://2025.emnlp.org/). [[pdf](https://aclanthology.org/2025.findings-emnlp.405/)]
 
 * **Enabling Chatbots with Eyes and Ears: An Immersive Multimodal Conversation System for Dynamic Interactions**<br>
 Jihyoung Jang\*, Minwook Bae\*, Minji Kim, Dilek Hakkani-Tur, and <ins>Hyounghun Kim</ins><br>
