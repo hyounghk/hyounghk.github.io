@@ -4,6 +4,26 @@ I am an assistant professor at POSTECH [GSAI](https://ai.postech.ac.kr/)/[CSE](h
 
 
 ### Publications
+* **Mixture-of-Experts with Intermediate CTC Supervision for Accented Speech Recognition**<br>
+Wonjun Lee, <ins>Hyounghun Kim</ins>, and Gary Lee.<br>
+Proceedings of [ACL 2026](https://2026.aclweb.org/).
+
+* **Can LLMs Estimate Cognitive Complexity of Reading Comprehension Items?**<br>
+Seonjeong Hwang, <ins>Hyounghun Kim</ins>, and Gary Lee<br>
+Proceedings of [ACL 2026](https://2026.aclweb.org/).
+
+* **A Multi-Agent Framework for Feature-Constrained Difficulty Control in Reading Comprehension Item Generation**<br>
+Seonjeong Hwang, Jun Seo, <ins>Hyounghun Kim</ins>, Gary Lee<br>
+Proceedings of [ACL 2026](https://2026.aclweb.org/).
+
+* **Why Do Multilingual Reasoning Gaps Emerge in Reasoning Language Models?**<br>
+Deokhyung Kang, Seonjeong Hwang, Daehui Kim, <ins>Hyounghun Kim</ins>, and Gary Lee<br>
+Findings of [ACL 2026](https://2026.aclweb.org/).
+
+* **Behavior-Aware Item Modeling via Dynamic Procedural Solution Representations for Knowledge Tracing**<br>
+Jun Seo, Sangwon Ryu, Heejin Do, <ins>Hyounghun Kim</ins>, and Gary Lee<br>
+Findings of [ACL 2026](https://2026.aclweb.org/).
+
 * **AQuA: Toward Strategic Response Generation for Ambiguous Visual Questions**<br>
 Jihyoung Jang and <ins>Hyounghun Kim</ins><br>
 Proceedings of [ICLR 2026](https://iclr.cc/).
