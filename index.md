@@ -26,7 +26,7 @@ Findings of [ACL 2026](https://2026.aclweb.org/).
 
 * **AQuA: Toward Strategic Response Generation for Ambiguous Visual Questions**<br>
 Jihyoung Jang and <ins>Hyounghun Kim</ins><br>
-Proceedings of [ICLR 2026](https://iclr.cc/).
+Proceedings of [ICLR 2026](https://iclr.cc/). [[pdf](https://arxiv.org/abs/2603.07394)]
 
 * **PanicToCalm: A Proactive Counseling Agent for Panic Attacks**<br>
 Jihyun Lee, Yejin Min, San Kim, Yejin Jeon, SungJun Yang, <ins>Hyounghun Kim</ins>, Gary Lee<br>
