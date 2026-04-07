@@ -21,7 +21,7 @@ Deokhyung Kang, Seonjeong Hwang, Daehui Kim, <ins>Hyounghun Kim</ins>, and Gary 
 Findings of [ACL 2026](https://2026.aclweb.org/).
 
 * **Behavior-Aware Item Modeling via Dynamic Procedural Solution Representations for Knowledge Tracing**<br>
-Jun Seo, Sangwon Ryu, Heejin Do, <ins>Hyounghun Kim</ins>, and Gary Lee<br>
+Jun Seo\*, Sangwon Ryu\*, Heejin Do†, <ins>Hyounghun Kim</ins>, and Gary Lee†<br>
 Findings of [ACL 2026](https://2026.aclweb.org/).
 
 * **AQuA: Toward Strategic Response Generation for Ambiguous Visual Questions**<br>
