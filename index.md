@@ -4,6 +4,7 @@ I am an assistant professor at POSTECH [GSAI](https://ai.postech.ac.kr/)/[CSE](h
 
 
 ### Publications
+### 2026
 * **SPLIT: Training-Free AI-Generated and Partially Edited Video Detection via Spatial Patch‑Level Incoherence and Temporal Roughness**<br>
 Jongyeop Hyun and <ins>Hyounghun Kim</ins>. ECCV 2026
 
@@ -25,6 +26,8 @@ Jun Seo\*, Sangwon Ryu\*, Heejin Do†, <ins>Hyounghun Kim</ins>, and Gary Lee�
 * **AQuA: Toward Strategic Response Generation for Ambiguous Visual Questions**<br>
 Jihyoung Jang and <ins>Hyounghun Kim</ins>. ICLR 2026 [[pdf](https://arxiv.org/abs/2603.07394)]
 
+
+### 2025
 * **PanicToCalm: A Proactive Counseling Agent for Panic Attacks**<br>
 Jihyun Lee, Yejin Min, San Kim, Yejin Jeon, SungJun Yang, <ins>Hyounghun Kim</ins>, Gary Lee. EMNLP 2025 [[pdf](https://arxiv.org/abs/2510.21143)]
 
@@ -46,18 +49,21 @@ Kyungmin Kim, Youngbin Choi, <ins>Hyounghun Kim</ins>, Dongwoo Kim, and Sangdon 
 * **Enabling Chatbots with Eyes and Ears: An Immersive Multimodal Conversation System for Dynamic Interactions**<br>
 Jihyoung Jang\*, Minwook Bae\*, Minji Kim, Dilek Hakkani-Tur, and <ins>Hyounghun Kim</ins>. ACL 2025 [[pdf](https://arxiv.org/abs/2506.00421)]
 
+### 2024
 * **Collective Critics for Creative Story Generation**<br>
 Minwook Bae, and <ins>Hyounghun Kim</ins>. EMNLP 2024 [[pdf](https://arxiv.org/abs/2410.02428)]
 
 * **Mixed-Session Conversation with Egocentric Memory**<br>
 Jihyoung Jang, Taeyoung Kim, and <ins>Hyounghun Kim</ins>. Findings of EMNLP 2024 [[pdf](https://arxiv.org/abs/2410.02503)] [[website](https://mixed-session.github.io/)]
 
+### 2023
 * **Conversation Chronicles: Towards Diverse Temporal and Relational Dynamics in Multi-Session Conversations**<br>
 Jihyoung Jang, MinSeong Boo, and <ins>Hyounghun Kim</ins>. EMNLP 2023 [[pdf](https://arxiv.org/abs/2310.13420)] [[website](https://conversation-chronicles.github.io/)]
 
 * **Sound of Story: Multi-modal Storytelling with Audio**<br>
 Jaeyeon Bae\*, Seokhoon Jeong\*, Seokun Kang, Namgi Han, Jae-Yon Lee, <ins>Hyounghun Kim</ins>, and Taehwan Kim. Findings of EMNLP 2023 [[pdf](https://arxiv.org/abs/2310.19264)]
 
+### ~2022
 * **CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**<br>
 <ins>Hyounghun Kim</ins>\*, Abhay Zala\*, and Mohit Bansal. NAACL 2022 [[pdf](https://arxiv.org/abs/2207.03961)]
 
