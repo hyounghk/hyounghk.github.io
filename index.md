@@ -1,8 +1,7 @@
 
 ### About Me
 I am an assistant professor at POSTECH [GSAI](https://ai.postech.ac.kr/)/[CSE](https://cse.postech.ac.kr/), leading [Language & Intelligence Lab (LIL)](https://sites.google.com/view/language-intelligence-lab) under [POSTECH NLP Group](https://nlp.postech.ac.kr/). Before joining POSTECH, I was an assistant professor at UNIST AIGS/CSE. I earned my PhD from UNC Chapel Hill, where I was advised by Prof. [Mohit Bansal](http://www.cs.unc.edu/~mbansal). I also worked with Prof. [Henry Fuchs](http://henryfuchs.web.unc.edu/) on AR applications.
- <br>
- <br>
+<br><br>
 ### Publications
 ### 2026
 **SPLIT: Training-Free AI-Generated and Partially Edited Video Detection via Spatial Patch‑Level Incoherence and Temporal Roughness**<br>
@@ -25,8 +24,7 @@ Jun Seo\*, Sangwon Ryu\*, Heejin Do†, <ins>Hyounghun Kim</ins>, and Gary Lee�
 
 **AQuA: Toward Strategic Response Generation for Ambiguous Visual Questions**<br>
 Jihyoung Jang and <ins>Hyounghun Kim</ins>. ICLR 2026 [[pdf](https://arxiv.org/abs/2603.07394)]
-
-<br>
+<br><br>
 
 ### 2025
 **PanicToCalm: A Proactive Counseling Agent for Panic Attacks**<br>
@@ -49,8 +47,7 @@ Kyungmin Kim, Youngbin Choi, <ins>Hyounghun Kim</ins>, Dongwoo Kim, and Sangdon 
 
 **Enabling Chatbots with Eyes and Ears: An Immersive Multimodal Conversation System for Dynamic Interactions**<br>
 Jihyoung Jang\*, Minwook Bae\*, Minji Kim, Dilek Hakkani-Tur, and <ins>Hyounghun Kim</ins>. ACL 2025 [[pdf](https://arxiv.org/abs/2506.00421)]
-
-<br>
+<br><br>
 
 ### 2024
 **Collective Critics for Creative Story Generation**<br>
@@ -58,8 +55,7 @@ Minwook Bae, and <ins>Hyounghun Kim</ins>. EMNLP 2024 [[pdf](https://arxiv.org/a
 
 **Mixed-Session Conversation with Egocentric Memory**<br>
 Jihyoung Jang, Taeyoung Kim, and <ins>Hyounghun Kim</ins>. Findings of EMNLP 2024 [[pdf](https://arxiv.org/abs/2410.02503)] [[website](https://mixed-session.github.io/)]
-
-<br>
+<br><br>
 
 ### 2023
 **Conversation Chronicles: Towards Diverse Temporal and Relational Dynamics in Multi-Session Conversations**<br>
@@ -67,8 +63,7 @@ Jihyoung Jang, MinSeong Boo, and <ins>Hyounghun Kim</ins>. EMNLP 2023 [[pdf](htt
 
 **Sound of Story: Multi-modal Storytelling with Audio**<br>
 Jaeyeon Bae\*, Seokhoon Jeong\*, Seokun Kang, Namgi Han, Jae-Yon Lee, <ins>Hyounghun Kim</ins>, and Taehwan Kim. Findings of EMNLP 2023 [[pdf](https://arxiv.org/abs/2310.19264)]
-
-<br>
+<br><br>
 
 ### 2022
 **CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination**<br>
@@ -80,8 +75,7 @@ Jaeyeon Bae\*, Seokhoon Jeong\*, Seokun Kang, Namgi Han, Jae-Yon Lee, <ins>Hyoun
 
 **CAISE: Conversational Agent for Image Search and Editing**<br>
 <ins>Hyounghun Kim</ins>, Doo Soon Kim, Seunghyun Yoon, Franck Dernoncourt, Trung Bui, and Mohit Bansal. AAAI 2022 [[pdf](https://arxiv.org/abs/2202.11847/)][[code](https://github.com/hyounghk/CAISE)]
-
-<br>
+<br><br>
 
 ### 2021
 **NDH-Full: Learning and Evaluating Navigational Agents on Full-Length Dialogue**<br>
@@ -92,8 +86,7 @@ Zineng Tang, Shiyue Zhang, <ins>Hyounghun Kim</ins>, and Mohit Bansal. ACL 2021 
 
 **FixMyPose: Pose Correctional Captioning and Retrieval**<br>
 <ins>Hyounghun Kim</ins>\*, Abhaysinh Zala\*, Graham Burri, and Mohit Bansal. AAAI 2021 [[pdf](https://arxiv.org/abs/2104.01703)][[code](https://github.com/hyounghk/FixMyPose)]
-
-<br>
+<br><br>
 
 ### 2020
 **ArraMon: A Joint Navigation-Assembly Instruction Interpretation Task in Dynamic Environments**<br>
@@ -104,8 +97,7 @@ Zineng Tang, Shiyue Zhang, <ins>Hyounghun Kim</ins>, and Mohit Bansal. ACL 2021 
 
 **Modality-Balanced Models for Visual Dialogue**<br>
 <ins>Hyounghun Kim</ins>, Hao Tan, and Mohit Bansal. AAAI 2020 [[pdf](https://arxiv.org/abs/2001.06354)]
-
-<br>
+<br><br>
 
 ### 2019
 **Improving Visual Question Answering by Referring to Generated Paragraph Captions**<br>
@@ -114,8 +106,7 @@ Zineng Tang, Shiyue Zhang, <ins>Hyounghun Kim</ins>, and Mohit Bansal. ACL 2021 
 
 **Development of Augmented Reality Applications in Otolaryngology-Head and Neck Surgery**<br>
 Austin S. Rose, <ins>Hyounghun Kim</ins>, Henry Fuchs, and Jan-Michael Frahm. The Laryngoscope, Jul. 2019. [[pdf](https://onlinelibrary.wiley.com/doi/pdf/10.1002/lary.28098)]
-
-<br>
+<br><br>
 
 ### 2018
 **Towards Fully Mobile 3D Face, Body, and Environment Capture Using Only Head-worn Cameras**<br>
