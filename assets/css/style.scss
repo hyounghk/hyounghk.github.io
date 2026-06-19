@@ -17,11 +17,14 @@ a:hover, a:focus {
 
 @media screen and (min-width: 961px) {
   .wrapper {
-    width: 1180px;
+    width: calc(100vw - 100px);
+    max-width: 1180px;
   }
 
   section {
-    width: 840px;
+    width: calc(100% - 340px);
+    max-width: 840px;
+    overflow-wrap: break-word;
   }
 }
 // /* 컨테이너를 플렉스 */
