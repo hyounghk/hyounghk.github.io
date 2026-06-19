@@ -19,6 +19,12 @@ body {
   color: #555555;
 }
 
+strong,
+b {
+  color: inherit;
+  font-weight: 600;
+}
+
 @media screen and (min-width: 961px) {
   .wrapper {
     width: calc(100vw - 100px);
