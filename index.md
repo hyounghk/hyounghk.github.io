@@ -5,25 +5,25 @@ I am an assistant professor at POSTECH [GSAI](https://ai.postech.ac.kr/)/[CSE](h
 
 ### Publications
 ### 2026
-SPLIT: Training-Free AI-Generated and Partially Edited Video Detection via Spatial Patch‑Level Incoherence and Temporal Roughness<br>
+**SPLIT: Training-Free AI-Generated and Partially Edited Video Detection via Spatial Patch‑Level Incoherence and Temporal Roughness**<br>
 Jongyeop Hyun and <ins>Hyounghun Kim</ins>. ECCV 2026
 
-Mixture-of-Experts with Intermediate CTC Supervision for Accented Speech Recognition<br>
+**Mixture-of-Experts with Intermediate CTC Supervision for Accented Speech Recognition**<br>
 Wonjun Lee, <ins>Hyounghun Kim</ins>, and Gary Lee. ACL 2026
 
-Can LLMs Estimate Cognitive Complexity of Reading Comprehension Items?<br>
+**Can LLMs Estimate Cognitive Complexity of Reading Comprehension Items?**<br>
 Seonjeong Hwang, <ins>Hyounghun Kim</ins>, and Gary Lee. ACL 2026
 
-A Multi-Agent Framework for Feature-Constrained Difficulty Control in Reading Comprehension Item Generation<br>
+**A Multi-Agent Framework for Feature-Constrained Difficulty Control in Reading Comprehension Item Generation**<br>
 Seonjeong Hwang, Jun Seo, <ins>Hyounghun Kim</ins>, Gary Lee. ACL 2026
 
-Why Do Multilingual Reasoning Gaps Emerge in Reasoning Language Models?<br>
+**Why Do Multilingual Reasoning Gaps Emerge in Reasoning Language Models?**<br>
 Deokhyung Kang, Seonjeong Hwang, Daehui Kim, <ins>Hyounghun Kim</ins>, and Gary Lee. Findings of ACL 2026
 
-Behavior-Aware Item Modeling via Dynamic Procedural Solution Representations for Knowledge Tracing<br>
+**Behavior-Aware Item Modeling via Dynamic Procedural Solution Representations for Knowledge Tracing**<br>
 Jun Seo\*, Sangwon Ryu\*, Heejin Do†, <ins>Hyounghun Kim</ins>, and Gary Lee†. Findings of ACL 2026
 
-AQuA: Toward Strategic Response Generation for Ambiguous Visual Questions<br>
+**AQuA: Toward Strategic Response Generation for Ambiguous Visual Questions**<br>
 Jihyoung Jang and <ins>Hyounghun Kim</ins>. ICLR 2026 [[pdf](https://arxiv.org/abs/2603.07394)]
 
 <br>
