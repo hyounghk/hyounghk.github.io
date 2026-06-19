@@ -1,9 +1,9 @@
 
-## About Me
+### About Me
 I am an assistant professor at POSTECH [GSAI](https://ai.postech.ac.kr/)/[CSE](https://cse.postech.ac.kr/), leading [Language & Intelligence Lab (LIL)](https://sites.google.com/view/language-intelligence-lab) under [POSTECH NLP Group](https://nlp.postech.ac.kr/). Before joining POSTECH, I was an assistant professor at UNIST AIGS/CSE. I earned my PhD from UNC Chapel Hill, where I was advised by Prof. [Mohit Bansal](http://www.cs.unc.edu/~mbansal). I also worked with Prof. [Henry Fuchs](http://henryfuchs.web.unc.edu/) on AR applications.
 
 
-## Publications
+### Publications
 ### 2026
 **SPLIT: Training-Free AI-Generated and Partially Edited Video Detection via Spatial Patch‑Level Incoherence and Temporal Roughness**<br>
 Jongyeop Hyun and <ins>Hyounghun Kim</ins>. ECCV 2026
@@ -87,37 +87,37 @@ Jaeyeon Bae\*, Seokhoon Jeong\*, Seokun Kang, Namgi Han, Jae-Yon Lee, <ins>Hyoun
 **NDH-Full: Learning and Evaluating Navigational Agents on Full-Length Dialogue**<br>
 <ins>Hyounghun Kim</ins>, Jialu Li, and Mohit Bansal. EMNLP 2021 [[pdf](https://aclanthology.org/2021.emnlp-main.518/)][[code](https://github.com/hyounghk/NDH-FULL)]
 
-**Continuous Language Generative Flow**
+**Continuous Language Generative Flow**<br>
 Zineng Tang, Shiyue Zhang, <ins>Hyounghun Kim</ins>, and Mohit Bansal. ACL 2021 [[pdf](https://aclanthology.org/2021.acl-long.355/)][[code](https://github.com/zinengtang/ContinuousFlowNL)]
 
-**FixMyPose: Pose Correctional Captioning and Retrieval**  
+**FixMyPose: Pose Correctional Captioning and Retrieval**<br>
 <ins>Hyounghun Kim</ins>\*, Abhaysinh Zala\*, Graham Burri, and Mohit Bansal. AAAI 2021 [[pdf](https://arxiv.org/abs/2104.01703)][[code](https://github.com/hyounghk/FixMyPose)]
 
 <br>
 
 ### 2020
-**ArraMon: A Joint Navigation-Assembly Instruction Interpretation Task in Dynamic Environments**  
+**ArraMon: A Joint Navigation-Assembly Instruction Interpretation Task in Dynamic Environments**<br>
 <ins>Hyounghun Kim</ins>, Abhaysinh Zala, Graham Burri, Hao Tan, and Mohit Bansal. Findings of EMNLP 2020 [[pdf](http://arxiv.org/abs/2011.07660)][[code](https://github.com/hyounghk/ArraMon)]
 
-**Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA**  
+**Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA**<br>
 <ins>Hyounghun Kim</ins>, Zineng Tang, and Mohit Bansal. ACL 2020 [[pdf](https://arxiv.org/abs/2005.06409)][[code](https://github.com/hyounghk/VideoQADenseCapFrameGate-ACL2020)]
 
-**Modality-Balanced Models for Visual Dialogue**  
+**Modality-Balanced Models for Visual Dialogue**<br>
 <ins>Hyounghun Kim</ins>, Hao Tan, and Mohit Bansal. AAAI 2020 [[pdf](https://arxiv.org/abs/2001.06354)]
 
 <br>
 
 ### 2019
-**Improving Visual Question Answering by Referring to Generated Paragraph Captions**  
+**Improving Visual Question Answering by Referring to Generated Paragraph Captions**<br>
 <ins>Hyounghun Kim</ins> and Mohit Bansal. ACL 2019 (short paper) [[pdf](https://arxiv.org/abs/1906.06216)]  
 ([ACL Best Short Paper Nomination](http://www.acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml))
 
-**Development of Augmented Reality Applications in Otolaryngology-Head and Neck Surgery**  
+**Development of Augmented Reality Applications in Otolaryngology-Head and Neck Surgery**<br>
 Austin S. Rose, <ins>Hyounghun Kim</ins>, Henry Fuchs, and Jan-Michael Frahm. The Laryngoscope, Jul. 2019. [[pdf](https://onlinelibrary.wiley.com/doi/pdf/10.1002/lary.28098)]
 
 <br>
 
 ### 2018
-**Towards Fully Mobile 3D Face, Body, and Environment Capture Using Only Head-worn Cameras**   
+**Towards Fully Mobile 3D Face, Body, and Environment Capture Using Only Head-worn Cameras**<br>
 Young-Woon Cha, True Price, Zhen Wei, Xinran Lu, Nicholas Rewkowski, Rohan Chabra, Zihe Qin, <ins>Hyounghun Kim</ins>, Zhaoqi Su, Yebin Liu, Adrian Ilie, Andrei State, Zhenlin Xu, Jan-Michael Frahm, and Henry Fuchs. IEEE Transactions on Visualization and Computer Graphics (TVCG), Vol. 24, November, 2018. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8458443)]
 
