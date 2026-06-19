@@ -26,6 +26,7 @@ Jun Seo\*, Sangwon Ryu\*, Heejin Doâ€ , <ins>Hyounghun Kim</ins>, and Gary Leeâ€
 AQuA: Toward Strategic Response Generation for Ambiguous Visual Questions<br>
 Jihyoung Jang and <ins>Hyounghun Kim</ins>. ICLR 2026 [[pdf](https://arxiv.org/abs/2603.07394)]
 
+<br>
 
 ### 2025
 PanicToCalm: A Proactive Counseling Agent for Panic Attacks<br>
@@ -49,6 +50,8 @@ Kyungmin Kim, Youngbin Choi, <ins>Hyounghun Kim</ins>, Dongwoo Kim, and Sangdon 
 Enabling Chatbots with Eyes and Ears: An Immersive Multimodal Conversation System for Dynamic Interactions<br>
 Jihyoung Jang\*, Minwook Bae\*, Minji Kim, Dilek Hakkani-Tur, and <ins>Hyounghun Kim</ins>. ACL 2025 [[pdf](https://arxiv.org/abs/2506.00421)]
 
+<br>
+
 ### 2024
 Collective Critics for Creative Story Generation<br>
 Minwook Bae, and <ins>Hyounghun Kim</ins>. EMNLP 2024 [[pdf](https://arxiv.org/abs/2410.02428)]
@@ -56,12 +59,16 @@ Minwook Bae, and <ins>Hyounghun Kim</ins>. EMNLP 2024 [[pdf](https://arxiv.org/a
 Mixed-Session Conversation with Egocentric Memory<br>
 Jihyoung Jang, Taeyoung Kim, and <ins>Hyounghun Kim</ins>. Findings of EMNLP 2024 [[pdf](https://arxiv.org/abs/2410.02503)] [[website](https://mixed-session.github.io/)]
 
+<br>
+
 ### 2023
 Conversation Chronicles: Towards Diverse Temporal and Relational Dynamics in Multi-Session Conversations<br>
 Jihyoung Jang, MinSeong Boo, and <ins>Hyounghun Kim</ins>. EMNLP 2023 [[pdf](https://arxiv.org/abs/2310.13420)] [[website](https://conversation-chronicles.github.io/)]
 
 Sound of Story: Multi-modal Storytelling with Audio<br>
 Jaeyeon Bae\*, Seokhoon Jeong\*, Seokun Kang, Namgi Han, Jae-Yon Lee, <ins>Hyounghun Kim</ins>, and Taehwan Kim. Findings of EMNLP 2023 [[pdf](https://arxiv.org/abs/2310.19264)]
+
+<br>
 
 ### ~2022
 CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination<br>
