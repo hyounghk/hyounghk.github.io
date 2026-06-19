@@ -4,7 +4,7 @@ I am an assistant professor at POSTECH [GSAI](https://ai.postech.ac.kr/)/[CSE](h
 
 
 ### Publications
-### 2026
+## 2026
 **SPLIT: Training-Free AI-Generated and Partially Edited Video Detection via Spatial Patch‑Level Incoherence and Temporal Roughness**<br>
 Jongyeop Hyun and <ins>Hyounghun Kim</ins>. ECCV 2026
 
