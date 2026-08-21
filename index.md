@@ -4,6 +4,28 @@ I am an assistant professor at POSTECH [GSAI](https://ai.postech.ac.kr/)/[CSE](h
 <br><br>
 ### Publications
 ### 2026
+
+**Refuse without Refusal: A Structural Analysis of Safety-Tuning Responses for Reducing False Refusals in Language Models**<br>
+Minji Kim and <ins>Hyounghun Kim</ins>. EMNLP 2026.
+
+**Controllable Image Captioning with Prompt-Conditioned Scene Rewards**<br>
+Jongyeop Hyun*, Taeyoung Kim*, and <ins>Hyounghun Kim</ins>. EMNLP 2026.
+
+**Knowing What Not to Answer: Selective Non-Compliance in Vision-Language Models**<br>
+Minji Kim, Jihyoung Jang, and <ins>Hyounghun Kim</ins>. EMNLP 2026.
+
+**PACE: Towards Surfacing Hidden Conflicts in User Requests**<br>
+Yoojin Kim, Jihyoung Jang, and <ins>Hyounghun Kim</ins>. EMNLP 2026.
+
+**Do Vision-Language Models Understand Visual Persuasiveness? A Diagnosis via Visual Persuasive Factors**<br>
+Gyuwon Park, and <ins>Hyounghun Kim</ins>. Findings of EMNLP 2026.
+
+**Can We Stop Malicious AI? KILLBENCH: A Benchmark for External AI Kill Switch Feasibility**<br>
+Sechan Lee, <ins>Hyounghun Kim</ins>, and Sangdon Park. Findings of EMNLP 2026.
+
+**Psy-Step: Structuring Therapeutic Targets and Action Sequences for Proactive Counseling Dialogue Systems**<br>
+Jihyun Lee, Yejin Min, Yejin Jeon, Sungjun Yang, <ins>Hyounghun Kim</ins>, and Gary Lee. Findings of EMNLP 2026.
+
 **SPLIT: Training-Free AI-Generated and Partially Edited Video Detection via Spatial Patch‑Level Incoherence and Temporal Roughness**<br>
 Jongyeop Hyun and <ins>Hyounghun Kim</ins>. ECCV 2026
 
