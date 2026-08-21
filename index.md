@@ -18,7 +18,7 @@ Minji Kim, Jihyoung Jang, and <ins>Hyounghun Kim</ins>. EMNLP 2026
 Yoojin Kim, Jihyoung Jang, and <ins>Hyounghun Kim</ins>. EMNLP 2026
 
 **Do Vision-Language Models Understand Visual Persuasiveness? A Diagnosis via Visual Persuasive Factors**<br>
-Gyuwon Park, and <ins>Hyounghun Kim</ins>. Findings of EMNLP 2026
+Gyuwon Park and <ins>Hyounghun Kim</ins>. Findings of EMNLP 2026
 
 **Can We Stop Malicious AI? KILLBENCH: A Benchmark for External AI Kill Switch Feasibility**<br>
 Sechan Lee, <ins>Hyounghun Kim</ins>, and Sangdon Park. Findings of EMNLP 2026
