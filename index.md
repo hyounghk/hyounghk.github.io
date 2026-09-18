@@ -9,7 +9,7 @@ I am an assistant professor at POSTECH [GSAI](https://ai.postech.ac.kr/)/[CSE](h
 Minji Kim and <ins>Hyounghun Kim</ins>. EMNLP 2026
 
 **Controllable Image Captioning with Prompt-Conditioned Scene Rewards**<br>
-Jongyeop Hyun*, Taeyoung Kim*, and <ins>Hyounghun Kim</ins>. EMNLP 2026
+Jongyeop Hyun\*, Taeyoung Kim\*, and <ins>Hyounghun Kim</ins>. EMNLP 2026
 
 **Knowing What Not to Answer: Selective Non-Compliance in Vision-Language Models**<br>
 Minji Kim, Jihyoung Jang, and <ins>Hyounghun Kim</ins>. EMNLP 2026
